@@ -1,0 +1,17 @@
+.nav {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  display: inline-block;
+  width: 10rem;
+  padding: 10px;
+}
+.searchInput {
+  width: 50%;
+  height: 2rem;
+}
+.searchButton {
+  background-color: transparent;
+}
